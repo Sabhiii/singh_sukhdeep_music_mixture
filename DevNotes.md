@@ -1,6 +1,5 @@
 ## Developer Notes
 
-### The notes for developers are included at the start of the Music Mixer Project Documentation 
 
 #### 1. Research:
 Focused on the Web Audio API, most of all on gainNode and AudioContext.
